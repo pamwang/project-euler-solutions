@@ -6,4 +6,6 @@ Find Project Euler here: [https://projecteuler.net/archives](https://projecteule
 
 ## **Table of Contents**
 
-|Date| Problem # | Problem Name | SUCCESSFUL? |
+| Date | Problem # | Problem Name | SUCCESSFUL? |
+|------|-----------|--------------|-------------|
+| September. 17th. 2020 | 1 | Multiples of 3 and 5 | YES! |
