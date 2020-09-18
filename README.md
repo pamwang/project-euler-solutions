@@ -1,4 +1,4 @@
-# **My Solutions to problems from Project Euler.**
+<h>My Solutions to problems from Project Euler.</h>
 
 My goal is to do one question from Project Euler every day to improve my problem solving, logic, data structures and algorithms skills.
 
