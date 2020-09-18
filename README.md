@@ -5,5 +5,5 @@ My goal is to do one question from Project Euler every day to improve my problem
 Find Project Euler here: [https://projecteuler.net/archives](https://projecteuler.net/archives)
 
 ## **Table of Contents**
-<br>
+
 |Date| Problem # | Problem Name | SUCCESSFUL? |
