@@ -7,5 +7,3 @@ Find Project Euler here: [https://projecteuler.net/archives](https://projecteule
 ## **Table of Contents**
 <br>
 |Date| Problem # | Problem Name | SUCCESSFUL? |
-| ---------------- | --------- | ------------ | ----------- |
-| Sept. 17th. 2020 | 1 | Multiples of 3 and 5 | YES |
