@@ -9,3 +9,6 @@ Find Project Euler here: [https://projecteuler.net/archives](https://projecteule
 | Date | Problem # | Problem Name | SUCCESSFUL? |
 |------|-----------|--------------|-------------|
 | September. 17th. 2020 | 1 | Multiples of 3 and 5 | YES! |
+| September. 20th. 2020 | 2 | Even Fibonacci Numbers | YES! |
+| September. 20th. 2020 | 3 | Largest Prime Factor | TODO |
+| September. 20th. 2020 | 4 | Largest Palindrome Product | TODO |
