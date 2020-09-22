@@ -11,4 +11,5 @@ Find Project Euler here: [https://projecteuler.net/archives](https://projecteule
 | September. 17th. 2020 | 1 | Multiples of 3 and 5 | YES! |
 | September. 20th. 2020 | 2 | Even Fibonacci Numbers | YES! |
 | September. 20th. 2020 | 3 | Largest Prime Factor | YES! |
-| September. 20th. 2020 | 4 | Largest Palindrome Product | TODO |
+| September. 20th. 2020 | 4 | Largest Palindrome Product | NOT YET... |
+| September. 21st. 2020 | 5 | Smallest Multiple | REQUIRES OPTIMIZATION... |

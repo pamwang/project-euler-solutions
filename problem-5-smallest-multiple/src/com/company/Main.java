@@ -26,7 +26,6 @@ public class Main {
             for(i = 1; i < MAX; i++){
                 if(smallestMultiple%i==0){
                     counter++;
-                    System.out.println(i);
                 }
             }
             if(counter == 20){
