@@ -14,3 +14,4 @@ Find Project Euler here: [https://projecteuler.net/archives](https://projecteule
 | September. 20th. 2020 | 4 | Largest Palindrome Product | NOT YET... |
 | September. 21st. 2020 | 5 | Smallest Multiple | REQUIRES OPTIMIZATION... |
 | September. 22nd. 2020 | 6 | Sum square difference | YES! |
+| September. 23rd. 2020 | 7 | 10001st prime | YES! |
