@@ -19,3 +19,4 @@ Find Project Euler here: [https://projecteuler.net/archives](https://projecteule
 | September. 27th. 2020 | 9 | Special Pythagorean Triplet | YES! |
 | September. 27th. 2020 | 10 | Summation of Primes | YES! |
 | September. 27th. 2020 | 11 | Largest product in a grid | NOT YET... |
+| September. 28th. 2020 | 12 | Highly Divisible Triangular Number | YES! |
